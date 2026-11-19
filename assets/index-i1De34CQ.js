@@ -88,6 +88,11 @@
     <p class="muted">
       Save a copy of your weekly budget and every expense, from all weeks, as a file, or restore one you saved.
     </p>
+    <p id="browser-only-note" class="note">
+      Your data is saved only in this browser on this device. It doesn't sync to your other devices or browsers.
+      To move it, tap Download backup here, then open the app on the other device and use Restore backup with
+      that file.
+    </p>
     <div class="form-buttons">
       <button id="download-backup" type="button" class="secondary">Download backup</button>
       <button id="restore-backup" type="button" class="secondary">Restore backup</button>
